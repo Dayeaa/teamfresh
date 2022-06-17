@@ -1,3 +1,3 @@
 # teamfresh
 
-SPRINGBOOT와 JPA를 이용한 
+SPRINGBOOT와 JPA를 이용한 API 
